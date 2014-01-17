@@ -13,7 +13,7 @@ out collectively by the network. Geocoin is also the name of the open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Geocoin client software, see http://www.coingen.io.
+the Geocoin client software, see http://www.geo-coin.info
 
 License
 -------
