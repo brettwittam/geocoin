@@ -1,8 +1,6 @@
 Geocoin integration/staging tree
 ================================
 
-http://www.coingen.io
-
 Copyright (c) 2009-2013 Bitcoin Developers
 
 What is Geocoin?
